@@ -1,4 +1,4 @@
-# HydraDX-docs
+# Tetched-docs
 
 ## Installation
 
